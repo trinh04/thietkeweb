@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>cơm cà ri </title>
+    </head>
+
+    <body>
+        <h1>cơm cà ri</h1>
+        <div>
+        <img src="cơm cà ri 2.jpg" alt="cơm cà ri"style="width:40%">
+        </div>
+
+        <div> 
+            <p>Nhắc đến ẩm thực Nhật Bản thì không thể bỏ qua món cơm cà ri trứ danh.
+             Món ăn có nguồn gốc từ Ấn Độ và được người Nhật biến tấu lại cho phù hợp với khẩu vị
+              Cơm cà ri Nhật thường được chia thành 2 phần riêng biệt là cơm và sốt.
+               Phần cà ri được chế biến từ thịt và rau củ, có vị ngọt, đậm đà, ít cay hơn so với cà ri Ấn Độ.
+
+            </p>
+        </div>
+    </body>
+</html>
