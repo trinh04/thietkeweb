@@ -1,0 +1,32 @@
+.container{
+    width:90%;
+    font-family:'Segoe UI', Tahoma,Geneva;
+    margin: 0 auto;
+    background-color: #ff9a8C;
+    border-radius: 10px;
+    height:1200px;
+}
+.container h1 {
+    margin-left: 20px;
+    margin-top: 20px;
+} 
+.container_inner{
+    display: flex;
+    justify-content: space-evenly;
+}
+.book{
+    
+    font-size: 30px;
+    width:25%;
+    background-color: white;
+    border-radius: 5px;
+    height: 1100px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.block img{
+    width:30px;
+    height:30px;
+}
+.block a{
+    text-decoration: none;
+}
