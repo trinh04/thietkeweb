@@ -1,0 +1,22 @@
+
+.book{
+    
+    font-size: 30px;
+    width:25%;
+    background-color: white;
+    border-radius: 5px;
+    height: 1100px;
+}
+    book{
+        width:33%;
+    }
+ div {
+        width:90%;
+        margin:auto;
+      }
+h1{
+    color:blueviolet;
+}
+h2{
+    color:aquamarine;
+}
