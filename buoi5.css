@@ -1,0 +1,21 @@
+.block img{
+    width:33%;
+ 
+}
+h1{
+    background-color:rgb(217, 13, 20); 
+    font-size: 30px;
+    color:aliceblue;
+    width:20%;
+}
+.mycontainer div {
+    width:33%;
+    float:left;
+  }
+  .mycontainer {
+    width:100%;
+    overflow:auto;
+  }
+  p{
+    width:25%;
+  }
