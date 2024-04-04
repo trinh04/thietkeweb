@@ -1,0 +1,12 @@
+h1{
+    margin:0px;
+    font-size: 30px;
+    font-weight:bold;
+    color:rgb(19, 151, 151);
+}
+p{
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(255, 255, 255);
+    width:55%;
+    font-weight:bold;
+}

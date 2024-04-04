@@ -1,0 +1,50 @@
+
+.container h1 {
+    margin-left: 50px;
+    margin-top: 50px;
+} 
+h1{
+    margin:0px;
+    font-size: 30px;
+    font-weight:bold;
+    color:rgb(19, 151, 151);
+}
+h3{
+    background-color:rgb(66, 189, 189); 
+    font-size: 30px;
+    color:aliceblue;
+    width:55%;
+}
+ul{
+    font-size: 15px;
+    color:rgb(200, 201, 202);
+}
+.block img{
+   
+    border:3px solid rgb(194, 186, 186);
+    background-color: rgb(194, 186, 186);
+    width:560px;
+    padding-left:30px;
+    padding-right: 30px;
+    padding-top: 0px;
+    padding-bottom: 70px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(255, 255, 255);
+    width:55%;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    width:55%;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Roboto Slab', serif;
+}
